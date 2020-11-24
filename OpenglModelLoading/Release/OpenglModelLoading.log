@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (OpenGLCourseApp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Window.cpp
+d:\openglcourseapp_model (1)\animationmodelloading\openglmodelloading\Window.h(19): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+Window.cpp(136): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Window.cpp(137): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Window.cpp(141): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Window.cpp(142): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Window.cpp(144): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Window.cpp(145): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+d:\openglcourseapp_model (1)\animationmodelloading\openglmodelloading\window.cpp(86): warning C4715: 'Window::Initialise': not all control paths return a value
+  1 of 889 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    24 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenglModelLoading.vcxproj -> D:\OpenGLCourseApp_Model (1)\AnimationmodelLoading\Release\OpenglModelLoading.exe
+  OpenglModelLoading.vcxproj -> D:\OpenGLCourseApp_Model (1)\AnimationmodelLoading\Release\OpenglModelLoading.pdb (Full PDB)

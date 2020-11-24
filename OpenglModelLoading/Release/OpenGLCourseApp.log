@@ -1,0 +1,35 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (OpenGLCourseApp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+  DirectionalLight.cpp
+DirectionalLight.cpp(18): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+DirectionalLight.cpp(19): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+DirectionalLight.cpp(21): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+DirectionalLight.cpp(22): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Light.cpp
+  main.cpp
+d:\openglcourseapp_model (1)\openglmodelloading\openglcourseapp\Window.h(19): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+main.cpp(203): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Material.cpp
+  Mesh.cpp
+  Model.cpp
+Model.cpp(29): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+Model.cpp(108): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  PointLight.cpp
+  Shader.cpp
+Shader.cpp(201): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+  SpotLight.cpp
+  Texture.cpp
+  Window.cpp
+d:\openglcourseapp_model (1)\openglmodelloading\openglcourseapp\Window.h(19): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+Window.cpp(136): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Window.cpp(137): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Window.cpp(141): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Window.cpp(142): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Window.cpp(144): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Window.cpp(145): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+d:\openglcourseapp_model (1)\openglmodelloading\openglcourseapp\window.cpp(86): warning C4715: 'Window::Initialise': not all control paths return a value
+  All 889 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OpenGLCourseApp.vcxproj -> D:\OpenGLCourseApp_Model (1)\OpenglModelLoading\Release\OpenglModelLoading.exe
+  OpenGLCourseApp.vcxproj -> D:\OpenGLCourseApp_Model (1)\OpenglModelLoading\Release\OpenglModelLoading.pdb (Full PDB)
